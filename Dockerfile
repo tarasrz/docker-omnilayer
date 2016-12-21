@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu
 MAINTAINER Kyle Manna <kyle@kylemanna.com>
 
 ARG USER_ID
